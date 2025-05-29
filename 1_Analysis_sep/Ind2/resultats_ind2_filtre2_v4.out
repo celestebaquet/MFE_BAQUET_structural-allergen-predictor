@@ -1,0 +1,21 @@
+Matrice de Confusion:
+	Predictions ->	Allergen	Non-Allergen
+	Allergen		25	12
+	Non-Allergen	36	1757
+	Vrais Labels
+
+Rapport de Classification:
+Vrai Positif (TP): 25
+Faux Positif (FP): 36
+Faux Negatif (FN): 12
+Vrai Negatif (TN): 1757
+
+Sensibilite (Recall): 0.6757
+Specificite: 0.9799
+Accuracy: 0.9738
+Matthews Correlation Coefficient (MCC): 0.5140
+Precision positive predictive (PPV): 0.4098
+F1-Score: 0.5102
+Balanced Accuracy (BACC): 0.8278
+Taux de faux positifs (FPR): 0.0201
+AUC (Air sous la courbe ROC): 0.8907
