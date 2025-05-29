@@ -1,0 +1,31 @@
+Analyse des résultats de simple classification par K-means
+
+Pour Mean:
+tp = 2198, fn = 642, tn = 1288, fp = 1552
+sn = 0.7739, sp = 0.4535, acc = 0.6137, bacc = 0.6137
+mcc = 0.2401, F1 = 0.6671, ppv = 0.5861, fpr = 0.5465
+
+Pour Max:
+tp = 1877, fn = 963, tn = 2136, fp = 704
+sn = 0.6609, sp = 0.7521, acc = 0.7065, bacc = 0.7065
+mcc = 0.4148, F1 = 0.6925, ppv = 0.7272, fpr = 0.2479
+
+Pour Min:
+tp = 2240, fn = 600, tn = 1748, fp = 1092
+sn = 0.7887, sp = 0.6155, acc = 0.7021, bacc = 0.7021
+mcc = 0.4104, F1 = 0.7259, ppv = 0.6723, fpr = 0.3845
+
+Pour Norm:
+tp = 2059, fn = 781, tn = 1654, fp = 1186
+sn = 0.7250, sp = 0.5824, acc = 0.6537, bacc = 0.6537
+mcc = 0.3106, F1 = 0.6767, ppv = 0.6345, fpr = 0.4176
+
+Pour Std:
+tp = 1118, fn = 1722, tn = 1377, fp = 1463
+sn = 0.3937, sp = 0.4849, acc = 0.4393, bacc = 0.4393
+mcc = -0.1220, F1 = 0.4125, ppv = 0.4332, fpr = 0.5151
+
+Pour Median:
+tp = 633, fn = 2207, tn = 1589, fp = 1251
+sn = 0.2229, sp = 0.5595, acc = 0.3912, bacc = 0.3912
+mcc = -0.2311, F1 = 0.2680, ppv = 0.3360, fpr = 0.4405
